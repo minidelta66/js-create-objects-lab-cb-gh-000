@@ -17,3 +17,9 @@ this.name = name;
 this.age = age;
 this.foodRequirements = foodRequirements;
 };
+
+function Bird(name, breed){
+this.name = name;
+this.breed = breed;
+
+};
