@@ -1,3 +1,5 @@
 'use strict';
 
-function Dog = New {name, breed, age};
+function Dog(name, breed, age){
+  
+}
