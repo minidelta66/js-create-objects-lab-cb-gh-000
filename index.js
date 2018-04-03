@@ -11,3 +11,8 @@ this.name = name;
 this.breed = breed;
 this.age = age;
 };
+
+function Ferret(name, age){
+this.name = name;
+this.breed = breed;
+};
